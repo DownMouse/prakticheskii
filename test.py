@@ -1,4 +1,5 @@
 a = 'hello'
 b = 'world '
-
-print(a + b)
+c = int(input('введите число'))
+for i in range c:
+  print(a + b)
